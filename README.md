@@ -83,7 +83,7 @@ The source code for the nightly build will be **shared periodically** so develop
 ### Run
 
 ```bash
-python macan_video_player17.py
+python macan_video_player.py
 ```
 
 ---
