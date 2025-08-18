@@ -46,15 +46,18 @@ Lightweight, flexible, yet **professional and premium**.
 
 ---
 
-## 🚀 Roadmap (Next Version)
+## 🚀 Changelog
+Macan Video Player v1.5.3 Changelog – 2025-08-17
 
-* 🌗 **Light/Dark theme toggle** for UI flexibility.
-* 🖼️ **Thumbnail preview in playlist** (see snapshot of each file).
-* 📺 **Mini Player mode** (always on top).
-* 🔄 **Drag & Drop files** directly into the player.
-* 🎶 **Audio visualizer** while playing music.
-* 🛠️ **Custom equalizer** (bass, treble, presets).
-* 🖥️ Packaging: Windows installer (.exe), Linux AppImage, macOS bundle.
+Added:
+
+Mini Window Mode (Always on Top): Allows users to watch videos in a small window that always stays on top of other applications, perfect for multitasking.
+
+Improved:
+
+Performance optimizations when switching from windowed to fullscreen mode.
+
+Improved stability when dragging and dropping video files.
 
 ---
 
