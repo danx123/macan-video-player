@@ -26,7 +26,7 @@ It supports a wide range of video/audio formats without additional codecs and is
 
 ---
 
-# 📌 **Changelog Macan Video Player v2.0.0 – 2025-08-18**
+# 📌 **Changelog Macan Video Player v2.5.0 – 2025-08-19**
 
 ### **Added**
 
@@ -40,6 +40,7 @@ Watch history is automatically saved in a `.json` file and appears in the playli
 Watch videos in a small window that always stays on top of other apps.
 * Drag & Drop Support 📂
 Videos can be opened directly by dragging files into the app.
+* Add Thumbnail Preview
 
 ### Improved
 
