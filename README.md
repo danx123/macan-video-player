@@ -1,9 +1,11 @@
 # 🐅📺 Macan Video Player
 
-Macan Video Player is a modern video player based on PyQt6 + FFmpeg 7.1.1 (LGPL) with a premium, lightweight, and feature-rich interface.
+Macan Video Player is a modern video player based on PyQt6, lightweight, and feature-rich interface.
 It supports a wide range of video/audio formats without additional codecs and is designed with a focus on a modern UI/UX.
 ---
 ## Screenshot 📸
+<img width="795" height="589" alt="Screenshot 2025-08-23 074854" src="https://github.com/user-attachments/assets/bbdbbdbf-ed43-4be2-8d03-7e5369585fb1" />
+
 <img width="813" height="584" alt="image" src="https://github.com/user-attachments/assets/ba206671-4f92-4b11-84fe-965198a48fa0" />
 
 <img width="322" height="429" alt="image" src="https://github.com/user-attachments/assets/033a9514-e568-456e-96b7-a6b5b8bb34ef" />
@@ -26,43 +28,30 @@ It supports a wide range of video/audio formats without additional codecs and is
 
 ---
 
-# 📌 **Changelog Macan Video Player v2.5.0 – 2025-08-19**
+📝 Changelog — Macan Video Player
+[3.0.0] — Major Release (2025-08-23)
+🚀 Added
+Thumbnail Preview Engine Rewritten
+Migrated from FFmpeg → OpenCV for frame preview generation.
+The result is faster, more responsive, and lighter, without the need to write temporary files to disk.
+Supports instant previews when the slider is moved.
+Theme System: Full theme support including Dark, Light, Neon Blue, Dark Blue, and Soft Pink with instant switching.
+Smart Resume: The app remembers where you last watched a video and automatically resumes when the file is reopened.
+JSON-based History & Playlist: Watch history is automatically saved, and playlists support drag and drop.
+Enhanced Fullscreen & Windowed Mode: Auto-hide navigation bar, auto-hide cursor, and toggle with spacebar for more intuitive control.
+🔧 Improved
+UI Refactor: Navigation, title bar, and media controls are reorganized for a cleaner and more consistent experience.
+Video Duration Accuracy: The total video duration is now displayed with more precise validation.
+Subtitle (.srt) Engine: Improved parsing and synchronization, subtitles appear smoothly without glitches.
+Streaming Support: Optimized integration with yt-dlp for streaming from various platforms.
+Performance: Optimized video rendering and kept RAM consumption low even when opening multiple files.
+🛠 Fixed
+A bug with lyrics auto-scroll that previously caused the scrollbar to return to the top.
+Fixed video resizing on first load to fit the window, not the native resolution.
+Fixed a crash when dragging and dropping certain video files.
 
-### **Added**
-
-* **Custom Theme Support** 🎨
-Users can choose a theme according to their preference (Dark, Light, Neon Blue, Dark Blue, Soft Pink).
-* **Smart Resume** 🕒
-Videos automatically resume from where they left off.
-* **Watch History** 📜
-Watch history is automatically saved in a `.json` file and appears in the playlist.
-* Mini Window Mode (Always on Top) 📺
-Watch videos in a small window that always stays on top of other apps.
-* Drag & Drop Support 📂
-Videos can be opened directly by dragging files into the app.
-* Add Thumbnail Preview
-
-### Improved
-
-* UI Themes Engine 🔧
-Smoother and more consistent theme switching, powered by QSS + JSON.
-* Fullscreen & Windowed Auto Hide 🖥️
-The navigation bar automatically hides and can be reappeared by clicking/reappearing the space bar.
-* Subtitle & Lyrics Handling 📝
-`.srt` subtitles and embedded subtitles are displayed more neatly and stably.
-* Performance Optimization ⚡
-Smoother playback with hardware acceleration (GPU/OpenGL) support.
-
-### **Fixed**
-
-* **Video Size Handling** 🔲
-Video adjusts to window size, no longer forced to the original size.
-* **Cursor Auto Hide** 🖱️
-The cursor automatically hides when fullscreen, reappearing during interaction.
-* **Duration Display** ⏱️
-The total video duration is now displayed validly and accurately.
-* **Drag & Drop Stability** 📂
-More stable performance when opening large videos via drag & drop.
+⚡ Note:
+The source code shared is the base/mainframe. For a stable version with all the above features, use the binary release on the official release page.
 
 ---
 
