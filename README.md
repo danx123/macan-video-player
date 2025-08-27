@@ -29,26 +29,9 @@ It supports a wide range of video/audio formats without additional codecs and is
 ---
 
 📝 Changelog — Macan Video Player
-[3.0.0] — Major Release (2025-08-23)
-🚀 Added
-Thumbnail Preview Engine Rewritten
-Migrated from FFmpeg → OpenCV for frame preview generation.
-The result is faster, more responsive, and lighter, without the need to write temporary files to disk.
-Supports instant previews when the slider is moved.
-Theme System: Full theme support including Dark, Light, Neon Blue, Dark Blue, and Soft Pink with instant switching.
-Smart Resume: The app remembers where you last watched a video and automatically resumes when the file is reopened.
-JSON-based History & Playlist: Watch history is automatically saved, and playlists support drag and drop.
-Enhanced Fullscreen & Windowed Mode: Auto-hide navigation bar, auto-hide cursor, and toggle with spacebar for more intuitive control.
-🔧 Improved
-UI Refactor: Navigation, title bar, and media controls are reorganized for a cleaner and more consistent experience.
-Video Duration Accuracy: The total video duration is now displayed with more precise validation.
-Subtitle (.srt) Engine: Improved parsing and synchronization, subtitles appear smoothly without glitches.
-Streaming Support: Optimized integration with yt-dlp for streaming from various platforms.
-Performance: Optimized video rendering and kept RAM consumption low even when opening multiple files.
+[3.2.0] — Major Release (2025-08-28)
 🛠 Fixed
-A bug with lyrics auto-scroll that previously caused the scrollbar to return to the top.
-Fixed video resizing on first load to fit the window, not the native resolution.
-Fixed a crash when dragging and dropping certain video files.
+fix the video that is not displayed perfectly
 
 ⚡ Note:
 The source code shared is the base/mainframe. For a stable version with all the above features, use the binary release on the official release page.
