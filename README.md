@@ -29,9 +29,9 @@ It supports a wide range of video/audio formats without additional codecs and is
 ---
 
 📝 Changelog — Macan Video Player
-[3.2.0] — Major Release (2025-08-28)
+[3.5.0] — Major Release (2025-08-31)
 🛠 Fixed
-fix the video that is not displayed perfectly
+Change Media Playback Engine
 
 ⚡ Note:
 The source code shared is the base/mainframe. For a stable version with all the above features, use the binary release on the official release page.
