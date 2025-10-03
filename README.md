@@ -29,9 +29,9 @@ It supports a wide range of video/audio formats without additional codecs and is
 ---
 
 📝 Changelog — Macan Video Player
-[3.5.1] — Major Release (2025-09-26)
+3.5.2
 🛠 Fixed
-- Change Media Playback Engine
+- Update Framework
 - Rebuild with Nuitka for better performance
 
 ⚡ Note:
