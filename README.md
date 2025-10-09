@@ -1,6 +1,6 @@
 # 🐅📺 Macan Video Player
 
-Macan Video Player is a modern video player based on PyQt6, lightweight, and feature-rich interface.
+Macan Video Player is a modern video player based on PySide6, lightweight, and feature-rich interface.
 It supports a wide range of video/audio formats without additional codecs and is designed with a focus on a modern UI/UX.
 ---
 ## Screenshot 📸
@@ -29,7 +29,7 @@ It supports a wide range of video/audio formats without additional codecs and is
 ---
 
 📝 Changelog — Macan Video Player
-3.5.2
+3.5.3
 🛠 Fixed
 - Update Framework
 - Rebuild with Nuitka for better performance
