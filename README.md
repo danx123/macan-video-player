@@ -29,10 +29,10 @@ It supports a wide range of video/audio formats without additional codecs and is
 ---
 
 📝 Changelog — Macan Video Player
-3.5.3
+3.5.5
 🛠 Fixed
-- Update Framework
-- Rebuild with Nuitka for better performance
+- Update Engine for online streaming
+- Change subprocess to QProcess
 
 ⚡ Note:
 The source code shared is the base/mainframe. For a stable version with all the above features, use the binary release on the official release page.
