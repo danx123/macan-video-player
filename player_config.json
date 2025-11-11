@@ -1,4 +1,16 @@
 {
-    "last_volume": 30,
-    "playlist": []
+    "last_volume": 18,
+    "playlist": [
+        {
+            "path": "H:/Videos/Johny English/Johnny English Reborn/Johnny English Reborn.mp4",
+            "title": "Johnny English Reborn.mp4"
+        }
+    ],
+    "theme": "Dark",
+    "history": [
+        {
+            "path": "H:/Videos/Johny English/Johnny English Reborn/Johnny English Reborn.mp4",
+            "title": "Johnny English Reborn.mp4"
+        }
+    ]
 }
