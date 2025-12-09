@@ -28,9 +28,9 @@ It supports a wide range of video/audio formats without additional codecs and is
 
 ---
 
-📝 Changelog — Macan Video Player v4.3.0
+📝 Changelog — Macan Video Player v4.3.1
 
-- Added dynamic tooltip (volume)
+- Update macan engine
 ---
 ⚡ Note:
 The source code shared is the base/mainframe. For a stable version with all the above features, use the binary release on the official release page.
