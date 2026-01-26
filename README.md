@@ -4,13 +4,8 @@ Macan Video Player is a modern video player based on PySide6, lightweight, and f
 It supports a wide range of video/audio formats without additional codecs and is designed with a focus on a modern UI/UX.
 ---
 ## Screenshot 📸
-<img width="795" height="589" alt="Screenshot 2025-08-23 074854" src="https://github.com/user-attachments/assets/bbdbbdbf-ed43-4be2-8d03-7e5369585fb1" />
+<img width="1051" height="587" alt="Screenshot 2026-01-26 073120" src="https://github.com/user-attachments/assets/a1f5012a-28a6-4a73-993f-5335f064c827" />
 
-<img width="813" height="584" alt="image" src="https://github.com/user-attachments/assets/ba206671-4f92-4b11-84fe-965198a48fa0" />
-
-<img width="322" height="429" alt="image" src="https://github.com/user-attachments/assets/033a9514-e568-456e-96b7-a6b5b8bb34ef" />
-
-<img width="301" height="433" alt="image" src="https://github.com/user-attachments/assets/b9d00413-8823-4a38-b1d9-d19e78a69bbd" />
 
 
 ---
@@ -26,11 +21,7 @@ It supports a wide range of video/audio formats without additional codecs and is
 - 🔲 **Responsive Video Size** – automatically adjusts to the window.
 - 🌏 **Stream from various sites (YouTube, Twitch, etc.) using yt-dlp.
 
----
 
-📝 Changelog — Macan Video Player v4.3.2
-
-- Update library
 ---
 ⚡ Note:
 The source code shared is the base/mainframe. For a stable version with all the above features, use the binary release on the official release page.
