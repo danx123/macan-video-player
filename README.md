@@ -15,9 +15,7 @@ Lightweight. Feature-rich. Designed for serious users.
 </div>
 
 ---
-<img width="1024" height="1536" alt="macan video player v8 5 7" src="https://github.com/user-attachments/assets/73d885d5-dac3-4549-9acf-8355e9319260" />
-
-
+<img width="1022" height="1352" alt="macan video player v8 6-github" src="https://github.com/user-attachments/assets/b6540796-35ed-447f-8ca7-c7622948e465" />
 ---
 
 ## Overview
