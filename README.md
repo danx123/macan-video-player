@@ -16,6 +16,12 @@ Lightweight. Feature-rich. Designed for serious users.
 
 </div>
 
+---
+
+<img width="760" height="602" alt="Screenshot 2026-10-16 004959" src="https://github.com/user-attachments/assets/2d1caeda-8fec-48a0-aff0-3fe1c8eee066" />
+
+<img width="733" height="520" alt="Screenshot 2026-10-16 005207" src="https://github.com/user-attachments/assets/5399a419-b633-460c-b883-6f019fd0f135" />
+
 
 ## Overview
 
@@ -52,16 +58,6 @@ The player is designed for users who demand precision and control: from fine-gra
 - **Playlist Support** — Built-in playlist panel with sequential and shuffle playback
 - **Drag & Drop** — Open files by dragging directly onto the player window
 - **Responsive Layout** — Video display automatically adapts to any window size and aspect ratio
-
----
-
-## Screenshots
-<img width="1365" height="767" alt="Screenshot 2026-03-09 213021" src="https://github.com/user-attachments/assets/014b6dee-6fdd-4009-897b-7210ac70785c" />
-
-<img width="1365" height="767" alt="Screenshot 2026-03-09 212832" src="https://github.com/user-attachments/assets/ac5cb640-276c-4062-9cd8-c80884b6c427" />
-
-
-
 
 ---
 
