@@ -12,7 +12,6 @@ Lightweight. Feature-rich. Designed for serious users.
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/danx123/macan-video-player?style=flat-square)](LICENSE)
 ![Rust](https://img.shields.io/badge/native%20engine-Rust-orange?style=flat-square)
-![Total Downloads](https://img.shields.io/github/downloads/danx123/macan-video-player/total?style=flat-square&color=E8FF00&label=downloads)
 
 </div>
 
